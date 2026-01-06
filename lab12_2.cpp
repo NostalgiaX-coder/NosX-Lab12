@@ -4,6 +4,7 @@ using namespace std;
 int gcd(int,int);
 
 
+
 int main(){
     int x, y;
     cin >> x >> y;
